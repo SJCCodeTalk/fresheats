@@ -60,6 +60,12 @@ https://www.hellofresh.com<br>
 https://dinnerly.com/<br>
 https://www.blueapron.com/<br>
 
+## DEMO ##
+
+A demo can be seen here: https://github.com/SJCCodeTalk/fresheats-demo
+
+DO NOT under any circumstance copy and paste any of the code, or duplicate the design. We can tell. 
+
 ## To get your design started
 1. Download the assets available in this repository
 2. Choose your color palette and your font set. 
