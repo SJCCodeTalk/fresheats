@@ -12,7 +12,8 @@
 - They want to appear welcoming, hip, affordable and modern.
 
 **Requirements:**
-- A single page website with the following sections o How It Worx
+- A single page website with the following sections
+  - How It Worx
   - Choose a Plan 
   - View Our Menu
   - Login/SignUp
@@ -27,6 +28,9 @@ image.
 - Use lorem ipsum text.
 - You’re welcome to use the demonstration as a guide but do not copy and paste or
 recycle code from the demo project.
+
+**Login Signup:**<br>
+Should be a simple, non-functional login form with an additional button to signup.
 
 **How it Worx:**<br>
 Use lorem ipsum placeholder text for the How It Works section. <br>
