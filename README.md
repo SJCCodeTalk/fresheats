@@ -1,6 +1,6 @@
 # fresh-eats
 
-**Assignment:** Design and code a one-page client website Client: MealWorxs
+**Assignment:** Design and code a one-page client website Client: Fresh Eats
 
 **Goals:** Fresh Eats wants a well-designed “easy to read” professional website to sell their meal prep service. They are excited to share their nationally based delivery services.
 
