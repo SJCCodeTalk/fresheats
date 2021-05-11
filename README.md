@@ -77,9 +77,5 @@ DO NOT under any circumstance copy and paste any of the code, or duplicate the d
 4. Check out the inspiration and awwwards.com for more inspiration on layouts.
 5. Do not start coding until your wireframe is approved by the Codetalk Instructor.
 
-## Getting your code started
 
-For this project, you will use Webpack. Please follow the instructions at https://github.com/SJCCodeTalk/webpack-starter-2019 to get started with your code.
-
-Follow the submission requirements for turning in github projects. Make certain to push your build version. Refer to the webpack starter instructions to see how you can create your build version. 
 
